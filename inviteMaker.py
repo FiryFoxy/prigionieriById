@@ -2,6 +2,8 @@ import csv
 import os
 from PIL import Image, ImageDraw, ImageFont
 import qrcode
+import random
+
 
 # Function to generate QR code for a given ID
 def generate_qr_code(url, qr_size):
@@ -45,7 +47,7 @@ def create_a4_page(entries, page_number, output_folder, font_path, font_size, pa
         draw.rectangle([x, y, x + rectangle_width, y + rectangle_height], outline="black", width=2)
 
         # Name text position (on the left, centered vertically)
-        name_text = f"{entry['NOME']} {entry['COGNOME']}"
+        name_text = ''.join(random.choices('0123456789', k=8))
         
         # Get the bounding box of the text to calculate width and height
         text_bbox = draw.textbbox((0, 0), name_text, font=font)
@@ -89,12 +91,12 @@ def read_csv(file_path):
 if __name__ == "__main__":
     csv_file_path = './output.csv'  # Path to your CSV file
     output_folder = 'generated_pages'  # Folder to save the output images
-    font_size = 50  # Adjust the font size here
+    font_size = 100  # Adjust the font size here
     font_path = "./font/Lato-Regular.ttf"
 
     # Ask for padding and QR code size
     padding = 50
-    qr_size = 400
+    qr_size = 300
 
     entries = read_csv(csv_file_path)
     
