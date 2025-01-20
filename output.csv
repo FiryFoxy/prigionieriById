@@ -1,0 +1,746 @@
+#;NOME;COGNOME;NATO A;NATO IL;QUALIFICA;DATA MORTE;LUOGO DI MORTE
+11;Alberto;Abrami;San Daniele;08/07/1922;Detenuto politico;06/12/1944;Erholungsheim-Hartheim (Mauthausen)
+12;Filippo;Acciarini;Sellano;05/03/1888;Detenuto politico;02/03/1945;Mauthausen
+13;Carmine Vincenzo;Accurso;Verbicaro;11/07/1913;Detenuto politico;01/04/1945;Mauthausen
+14;Franco o Francesco;D'Agostino;Napoli;20/01/1900;Detenuto politico;22/01/1945;Mauthausen
+15;Battista;Alberoni;Lavezzola;10/04/1890;Detenuto politico;04/04/1945;Gusen (Mauthausen)
+17;Sebastiano;Aliotta;Catania;20/01/1914;Detenuto politico;31/01/1945;Melk (Mauthausen)
+20;Mario Carlo;Amoretti;Cornigliano Ligure;23/04/1902;Detenuto politico;14/04/1945;Mauthausen
+21;Carlo;Amoroso;Trapani;05/08/1919;Detenuto politico;24/04/1945;Mauthausen
+23;Giuseppe;Arosio;San Colombano al Lambro;24/05/1914;Detenuto politico;17/03/1945;Mauthausen
+25;Lorenzo;Assandri;Prasco;10/08/1905;Detenuto politico;13/02/1945;St. Valentin (Mauthausen)
+26;Vincenzo Maria Romano;Aulisio;Ascoli Satriano;21/03/1904;Detenuto politico;21/03/1945;St. Valentin (Mauthausen)
+27;Francesco Giovanni Giuseppe;Baccarini;Bardi;03/05/1923;Detenuto politico;09/03/1945;Mauthausen
+28;Bruno;Baldini;Firenze;20/08/1895;Detenuto politico;06/04/1945;Mauthausen
+29;Narciso;Baldini;Piumazzo (fraz. di Castelfranco Emilia);31/12/1918;Detenuto politico;13/03/1945;Mauthausen
+30;Italo;Balloni;Firenze;16/07/1893;Detenuto politico;31/01/1945;Mauthausen
+31;Claudio;Bandini;Marradi;27/07/1926;Detenuto politico;28/04/1945;Ebensee (Mauthausen)
+32;Mario;Bandini;Russi di Romagna;19/05/1920;Detenuto politico;27/04/1945;Mauthausen
+33;Nevio;Baraccani;Castel del Rio;15/03/1920;Detenuto politico;12/12/1944;Melk (Mauthausen)
+34;Mario;Barbieri;Mantova;18/08/1905;Detenuto politico;10/01/1945;Ebensee (Mauthausen)
+36;Domenico;Barili;La Spezia;21/08/1900;Detenuto politico;24/04/1945;Mauthausen
+37;Enrico;Baroffio;Bizzozero;17/01/1883;Detenuto politico;02/11/1944;Erholungsheim-Hartheim (Mauthausen)
+39;Andrea;Baruffini;Medesano;24/03/1892;Detenuto politico;11/04/1945;Mauthausen
+40;Luigi;Bassi;Budrio;04/06/1895;Detenuto politico;28/01/1945;Gusen (Mauthausen)
+41;Gioacchino;Battista;Turginio;23/05/1901;Detenuto politico;19/12/1944;Melk (Mauthausen)
+42;Valentino;Battista;Liscia;04/12/1910;Detenuto politico;22/04/1945;Gusen (Mauthausen)
+44;Onorato;Belletti;Busalla;27/10/1889;Detenuto politico;18/03/1945;Mauthausen
+45;Cesare;Di Bello;Pennapiedimonte;04/05/1893;Detenuto politico;06/03/1945;Ebensee (Mauthausen)
+46;Albo;Bellucci;Orbetello;10/08/1907;Detenuto politico;22/04/1945;Gusen (Mauthausen)
+48;Osvaldo;De Bernardin;San Pietro di Cadore;30/08/1895;Detenuto politico;18/01/1945;Mauthausen
+51;Abramo;Berschatzki;Odessa (Ucraina);11/10/1892;Detenuto politico;26/04/1945;Gusen (Mauthausen)
+53;Antonio;Bertoncelli;Castel San Pietro dell'Emilia;24/05/1908;Detenuto politico;22/04/1945;Gusen (Mauthausen)
+54;Mario;Bertorelli;Bardi;25/01/1925;Detenuto politico;07/04/1945;Mauthausen
+55;Pietro;Bertorelli;Bardi;15/08/1923;Detenuto politico;06/04/1945;Wiener Neustadt (Mauthausen)
+56;Alberto;Bezzi;Parma;15/01/1923;Detenuto politico;17/04/1945;Mauthausen
+57;Massimo;Biagi;Palazzuolo sul Senio;04/09/1926;Detenuto politico;21/03/1945;Ebensee (Mauthausen)
+60;Angelo;Bianchi;Scavolino (frazione di Pennabilli);05/11/1927;Detenuto politico;12/12/1944;Gusen (Mauthausen)
+62;Armando;Bileggi;Scopoli di Foligno;03/03/1896;Detenuto politico;09/04/1945;Mauthausen
+64;Benigno Albino;Bisio;Voltaggio;06/02/1888;Detenuto politico;18/10/1944;Melk (Mauthausen)
+65;Eraldo;Bisio;Ovada;04/07/1922;Detenuto politico;21/07/1944;Wiener Neustadt (Mauthausen)
+66;Augusto;Bizzarri;Foligno;04/11/1920;Detenuto politico;06/04/1945;Wien Hinterbruehl (Mauthausen)
+68;Giuseppe;Boldrini;Viadana;20/11/1894;Detenuto politico;17/02/1945;Mauthausen
+69;Arturo;Bonati;Genova;19/10/1924;Detenuto politico;21/03/1945;Mauthausen
+72;Roberto;Borciani;Rio Saliceto;07/08/1891;Detenuto politico;26/02/1945;Wien Floridsdorf (Mauthausen)
+73;Secondo;Borghi;San Giovanni in Persiceto;08/12/1913;Detenuto politico;10/05/1945;Mauthausen
+79;Mario;Brioschi;Concorezzo;17/04/1903;Detenuto politico;12/05/1945;Gusen (Mauthausen)
+80;Ubaldo;Brioschi;Macerata;10/04/1901;Detenuto politico;20/03/1945;Mauthausen
+82;Siro;Buzzetti;San Giacomo Filippo;15/04/1902;Detenuto politico;05/11/1944;Melk (Mauthausen)
+88;Giacomo;Campodonico;Sestri Levante;15/11/1920;Detenuto politico;17/03/1945;Gusen (Mauthausen)
+92;Raffaele;De Caro;Napoli;09/04/1922;Detenuto politico;24/04/1945;Mauthausen
+93;Cesare;Carron (o Caron);Polverara;28/10/1889;Detenuto politico;09/02/1945;Ebensee (Mauthausen)
+94;Luigi Gregorio;Casarini;Dosso Sant'Agostino;08/05/1871;Detenuto politico;01/12/1944;Erholungsheim-Hartheim (Mauthausen)
+96;Cesare;Catti;Milano;17/11/1892;Detenuto politico;01/12/1944;Erholungsheim-Hartheim (Mauthausen)
+101;Agostino;Cianci;Roma;30/08/1879;Detenuto politico;03/11/1944;Erholungsheim-Hartheim (Mauthausen)
+103;Dante;Ciani;Trequanda;27/05/1906;Detenuto politico;13/05/1945;Mauthausen
+104;Luigi;Civaschi;Melegnano;25/05/1923;Detenuto politico;25/04/1945;Mauthausen
+107;Umberto;Coletti;Roma;19/12/1917;Detenuto politico;04/05/1945;Ebensee (Mauthausen)
+108;Emilio;Comi;Induno Olona;22/05/1902;Detenuto politico;03/01/1945;Gusen (Mauthausen)
+109;Vittorio;Compiani;Besenzone;01/01/1905;Detenuto politico;02/04/1945;Wiener Neustadt (Mauthausen)
+110;Antonio;Conidi;Cortale;01/02/1908;Detenuto politico;22/04/1945;Gusen (Mauthausen)
+111;Giuseppe;Contardi;Annicco;31/08/1878;Detenuto politico;11/04/1945;Wien Floridsdorf (Mauthausen)
+114;Domenico;Copis;Castello;21/09/1893;Detenuto politico;04/09/1944;Mauthausen
+115;Pasquale;Correale;Gioiosa Ionica;15/08/1913;Detenuto politico;03/05/1945;Ebensee (Mauthausen)
+116;Sergio;Corvina;Pennabilli;06/11/1926;Detenuto politico;11/03/1945;Gusen (Mauthausen)
+117;Aldo;Costa;Cossato;27/02/1911;Detenuto politico;28/12/1944;Ebensee (Mauthausen)
+121;Achille;Dall'Oppio;Castel Bolognese;15/05/1908;Detenuto politico;15/02/1945;Gusen (Mauthausen)
+122;Serafino;Daniele;Torino;29/01/1899;Detenuto politico;08/02/1945;Gusen (Mauthausen)
+123;Vittorio;Danilow o Daniloff;Charkiw (Russia);10/03/1901;Detenuto politico;16/01/1945;Gusen (Mauthausen)
+125;Luigi;Darco;Piacenza;28/02/1904;Detenuto politico;10/03/1945;Gusen (Mauthausen)
+126;Leonardo;Di Gaetano;Trapani;18/09/1914;Detenuto politico;03/04/1945;Mauthausen
+128;Egisto e Bindo;Donatini;Palazzuolo sul Senio;31/05/1917;Detenuto politico;21/04/1945;Ebensee (Mauthausen)
+136;Teofilo;Abenaim;Alessandria d'Egitto;31/12/1878;Ebreo;10/04/1944;Auschwitz
+138;Giuditta Rita;Aboaf;Venezia;08/05/1894;Ebreo;Ignoto;Ignoto
+140;Ida;Aboaf;Venezia;19/07/1901;Ebreo;Ignoto;Ignoto
+143;Adolfo;Abolaffio;Cantù;04/11/1899;Ebreo;ignoto;Auschwitz
+144;Guido;Abolaffio;Venezia;12/09/1888;Ebreo;mar-44;Auschwitz
+148;Giuseppe;Adler;Krowinka (Polonia);28/11/1897;Ebreo;Ignoto;Ignoto
+150;Oswald;Adler;Vienna (Austria);27/05/1920;Ebreo;gen-45;Gross Rosen
+158;Perl;Agatstein;Horodenka (Polonia);12/03/1904;Ebreo;Ignoto;Ignoto
+159;Angelo;Ajò;Pitigliano;30/10/1882;Ebreo;23/05/1944;Auschwitz
+160;Giacobbe;Ajò;Roma;15/01/1883;Ebreo;30/06/1944;Auschwitz
+161;Vittoria;Alatri;Roma;13/10/1871;Ebreo;26/02/1944;Auschwitz
+162;Gertrude Sara;Alexander;Stargard (Germania);25/02/1889;Ebreo;Ignoto;Ignoto
+164;Hermann;Alkalay;Brnjic (Jugoslavia);29/01/1883;Ebreo;gen-45;Buchenwald
+165;Josif;Alkalay;Belgrado (Serbia);27/07/1900;Ebreo;Data ignota;Luogo ignoto
+166;Miscia;Alkalay;Belgrado (Serbia);11/08/1892;Ebreo;Data ignota;Luogo ignoto
+167;Adele;Almansi;Rovigo;15/07/1877;Ebreo;26/02/1944;Auschwitz
+169;Giovanni;Alt;Vienna (Austria);18/11/1886;Ebreo;Ignoto;Ignoto
+171;Leopold;Alter;Cracovia (Polonia);10/02/1883;Ebreo;23/05/1944;Auschwitz
+173;Giuditta;Altmann;Fiume;04/02/1932;Ebreo;23/05/1944;Auschwitz
+174;Giuliano;Altmann;Fiume;04/02/1937;Ebreo;23/05/1944;Auschwitz
+175;Guglielmo;Altmann;Strzeliska Nowe (Polonia);05/06/1874;Ebreo;23/05/1944;Auschwitz
+176;Giulio;Amati;Genzano;09/09/1913;Ebreo;20/04/1945;Dachau
+177;Letizia;Amati;Roma;28/11/1888;Ebreo;Ignoto;Ignoto
+178;Olga;Ambonetti;Firenze;28/01/1880;Ebreo;23/05/1944;Auschwitz
+179;Rebecca;Amster;Presov (Cecoslovacchia);12/07/1900;Ebreo;23/05/1944;Auschwitz
+180;Eleonora;Anav;Roma;06/09/1908;Ebreo;Ignoto;Ignoto
+181;Achille;Ancona;Torino;10/09/1920;Ebreo;22/01/1945;Ignoto
+182;Ada;Ancona;Venezia;08/02/1873;Ebreo;26/02/1944;Auschwitz
+183;Bruno;Ancona;Trieste;16/11/1924;Ebreo;24/02/1945;Gross Rosen
+184;Edoardo;Ancona;Torino;07/05/1890;Ebreo;Ignoto;Ignoto
+185;Gastone;Ancona;Ferrara;05/02/1895;Ebreo;14/09/1944;ignoto
+186;Guglielmo;Ancona;Genova;17/11/1895;Ebreo;Ignoto;Ignoto
+187;Marisa;Ancona;Torino;01/03/1926;Ebreo;feb-45;Bergen Belsen
+190;Abramo;Anticoli;Roma;09/07/1901;Ebreo;30/01/1945;Buchenwald
+191;Alberto;Anticoli;Roma;15/05/1891;Ebreo;23/05/1944;Auschwitz
+192;Alfredo;Anticoli;Roma;28/09/1899;Ebreo;Ignoto;Ignoto
+193;Angelo;Anticoli;Roma;19/12/1904;Ebreo;14/02/1945;Mauthausen
+194;Angelo;Anticoli;Roma;28/07/1906;Ebreo;24/09/1944;Ignoto
+195;Aron;Anticoli;Roma;31/05/1897;Ebreo;03/05/1944;Ignoto
+196;Attilio;Anticoli;Milano;04/07/1923;Ebreo;10/05/1945;Ignoto
+197;Cesare;Anticoli;Roma;18/12/1896;Ebreo;30/09/1944;Ignoto
+198;Emanuele Vittorio (detto Canaccio);Anticoli;Roma;31/03/1885;Ebreo;23/05/1944;Auschwitz
+199;Fiorella;Anticoli;Roma;13/07/1936;Ebreo;30/06/1944;Auschwitz
+201;Franca;Anticoli;Roma;30/08/1930;Ebreo;Data ignota;Luogo ignoto
+202;Giancarlo;Anticoli;Roma;11/09/1940;Ebreo;30/06/1944;Auschwitz
+203;Glauco;Anticoli;Roma;30/06/1920;Ebreo;15/11/1944;Ignoto
+204;Leone;Anticoli;Roma;26/08/1920;Ebreo;set-44;Ignoto
+205;Letizia;Anticoli;Viterbo;30/08/1914;Ebreo;12/05/1945;Neustadt
+206;Luciano;Anticoli;Roma;31/01/1927;Ebreo;20/05/1945;Dachau
+207;Manrico;Anticoli;Roma;29/01/1925;Ebreo;25/01/1945;Natzweiler
+208;Mario;Anticoli;Roma;06/11/1917;Ebreo;18/02/1945;Flossenbuerg
+209;Mario;Anticoli;Roma;21/04/1921;Ebreo;Ignoto;Ignoto
+210;Pacifico;Anticoli;Roma;27/04/1932;Ebreo;30/06/1944;Auschwitz
+211;Sabatino;Anticoli;Roma;17/07/1897;Ebreo;Ignoto;Ignoto
+212;Salvatore;Anticoli;Roma;18/05/1919;Ebreo;gen-45;Buchenwald
+213;Sergio;Anticoli;Roma;23/12/1921;Ebreo;12/01/1945;Natzweiler
+214;Vitale;Anticoli;Roma;28/09/1880;Ebreo;30/06/1944;Auschwitz
+216;Sofia;Anzer;(Romania);23/04/1888;Ebreo;23/05/1944;Auschwitz
+217;Davide;Apfel;Jevicko (Cecoslovacchia);26/04/1871;Ebreo;10/04/1944;Auschwitz
+218;Anna;Ara Coen;Trieste (Austria);30/07/1878;Ebreo;10/04/1944;Auschwitz
+219;Alice;Arbib;Parigi (Francia);24/08/1925;Ebreo;Ignoto;Ignoto
+220;Enrico;Arbib;Parigi (Francia);20/05/1932;Ebreo;10/04/1944;Auschwitz
+222;Simon;Arbib;Tripoli (Libia);23/12/1903;Ebreo;Ignoto;Ignoto
+225;Liliana;Archivolti;Milano;10/12/1923;Ebreo;set-44;Ignoto
+226;Davide;Arditi;Varna (Bulgaria);12/02/1883;Ebreo;26/02/1944;Auschwitz
+227;Ernest;Arnstein;Fuerth (Germania);12/04/1889;Ebreo;Ignoto;Ignoto
+228;Angiolina Cecilia;Aronson;Livorno;08/09/1924;Ebreo;27/01/1945;Auschwitz
+229;Faustina;Artom;Asti;10/07/1870;Ebreo;23/05/1944;Auschwitz
+230;Vittorina;Artom;Asti;10/08/1868;Ebreo;23/05/1944;Auschwitz
+231;Alessandro;Ascoli;Roma;14/01/1910;Ebreo;set-44;Ignoto
+232;Alfredo;Ascoli;Ancona;15/10/1871;Ebreo;30/06/1944;Auschwitz
+233;Angelo;Ascoli;Roma;01/06/1907;Ebreo;01/01/1945;Lieberose (Brandeburgo)
+234;Ferruccio;Ascoli;Ancona;11/08/1897;Ebreo;30/08/1944;Auschwitz
+235;Lidia;Ascoli;Roma;19/08/1887;Ebreo;23/05/1944;Auschwitz
+236;Rachele;Assael;Smirne (Turchia);09/12/1878;Ebreo;23/05/1944;Auschwitz
+240;Donato;Astrologo;Roma;11/08/1899;Ebreo;30/06/1944;Auschwitz
+241;Emanuele;Astrologo;Roma;04/02/1897;Ebreo;30/06/1944;Auschwitz
+242;Enrichetta;Astrologo;Roma;12/11/1904;Ebreo;23/05/1944;Auschwitz
+243;Giacomo;Astrologo;Roma;19/01/1901;Ebreo;25/12/1944;Auschwitz
+244;Giuseppe;Astrologo;Roma;11/08/1899;Ebreo;Ignoto;Ignoto
+245;Isacco;Astrologo;Tivoli;05/07/1886;Ebreo;Ignoto;Ignoto
+246;Lello Samuele;Astrologo;Roma;16/12/1924;Ebreo;15/03/1945;Flossenbuerg
+247;Leone;Astrologo;Roma;16/12/1875;Ebreo;23/05/1944;Auschwitz
+248;Leone;Astrologo;Roma;27/12/1891;Ebreo;Ignoto;Ignoto
+249;Pellegrino;Astrologo;Roma;18/03/1875;Ebreo;10/04/1944;Auschwitz
+250;Riccardo;Astrologo;Roma;17/07/1916;Ebreo;Ignoto;Ignoto
+251;Vitale;Astrologo;Roma;04/12/1876;Ebreo;30/06/1944;Auschwitz
+252;Margherita;Atlas;Vienna (Austria);25/08/1905;Ebreo;Ignoto;Ignoto
+253;Ada;Attal;Livorno;04/03/1896;Ebreo;Ignoto;Ignoto
+254;Benito;Attal;Livorno;15/09/1934;Ebreo;23/05/1944;Auschwitz
+255;Fortuna;Attal;Tripoli (Libia);27/01/1917;Ebreo;Ignoto;Ignoto
+256;Sara;Attias;Dramas (Grecia);1906;Ebreo;Ignoto;Ignoto
+257;Jacob;Augapfel;Buczacz (Austria-Ungheria);15/05/1871;Ebreo;30/06/1944;Auschwitz
+258;Chaskel;Aussemberg;Lipsia (Germania);15/09/1893;Ebreo;23/05/1944;Auschwitz
+259;Mika;Avramovic;Sabac (Serbia);02/08/1887;Ebreo;Data ignota;Luogo ignoto
+260;Sarika;Avramovic;Zabrezje (Serbia);27/02/1916;Ebreo;Data ignota;Luogo ignoto
+263;Aldo;Bachi;Acqui Terme;21/10/1912;Ebreo;15/02/1945;Mauthausen
+264;Fritz;Bachmann;Norimberga (Germania);27/06/1921;Ebreo;gen-45;Auschwitz
+265;Eleonora Irene;Bahn;Heven (Germania);27/08/1902;Ebreo;Ignoto;Ignoto
+266;Joseph;Bakker;Linden (Germania);28/09/1884;Ebreo;10/04/1944;Auschwitz
+267;Lina;Ballatti;Firenze;09/04/1878;Ebreo;30/06/1944;Auschwitz
+268;Adalberto;Balog;Budapest (Ungheria);26/12/1894;Ebreo;23/01/1945;Auschwitz
+270;Hersz;Bank;Sieniawa (Polonia);15/01/1897;Ebreo;Ignoto;Ignoto
+273;Fortunata;Barbout;Istanbul (Turchia);1901;Ebreo;Ignoto;Ignoto
+275;Giacomina;Barda;Parigi (Francia);13/04/1917;Ebreo;Ignoto;Ignoto
+276;Oliviero Ruggiero;Barda;Montmorency (Francia);28/08/1915;Ebreo;set-44;Ignoto
+277;Salomone;Barda;Tripoli (Libia);15/02/1872;Ebreo;10/04/1944;Auschwitz
+278;Simeone Lionello;Barda;Fontainebleau (Francia);03/07/1918;Ebreo;Ignoto;Ignoto
+279;Alessandro Behor;Bardavid;Smirne (Turchia);23/01/1924;Ebreo;Ignoto;Ignoto
+280;Elia;Bardavid;Rodi (Egeo);23/01/1924;Ebreo;mar-45;Ignoto
+282;Avram;Baruch;Babic (Jugoslavia);17/01/1911;Ebreo;Ignoto;Ignoto
+290;Liliana;Baruch;Smirne (Turchia);27/12/1927;Ebreo;gen-45;Ignoto
+296;Clara;Baruk;Sarajevo (Jugoslavia);18/01/1890;Ebreo;Ignoto;Ignoto
+297;Attilio;Basevi;Verona;17/03/1907;Ebreo;Ignoto;Ignoto
+298;Lazzaro;Basevi;Torino;16/05/1872;Ebreo;10/04/1944;Auschwitz
+300;Anna Enrichetta;Bassani;Venezia;11/07/1875;Ebreo;26/02/1944;Auschwitz
+301;Bruno;Bassani;Bologna;30/12/1912;Ebreo;gen-45;Buchenwald
+302;Carlo;Bassani;Ferrara;07/09/1888;Ebreo;Ignoto;Ignoto
+303;Edgardo;Bassani;Ferrara;27/11/1893;Ebreo;apr-44;Ignoto
+304;Edoardo;Bassani;Venezia;16/04/1876;Ebreo;26/02/1944;Auschwitz
+305;Franco;Bassani;Venezia;18/09/1923;Ebreo;mag-44;Ignoto
+306;Giulietta;Bassani;Mantova;03/09/1864;Ebreo;30/06/1944;Auschwitz
+307;Giuseppe;Bassani;Ferrara;18/12/1886;Ebreo;Ignoto;Ignoto
+308;Marcella;Bassani;Ferrara;29/09/1922;Ebreo;26/02/1944;Auschwitz
+309;Tina;Bassani;Venezia;03/06/1929;Ebreo;Ignoto;Ignoto
+310;Bianca;Bassano;Firenze;01/04/1876;Ebreo;10/04/1944;Auschwitz
+311;Rita;Bassano;Firenze;22/03/1880;Ebreo;10/04/1944;Auschwitz
+313;Vittorio;Bassi;Venezia;04/06/1901;Ebreo;Ignoto;Ignoto
+314;Helene;Batschis;Cracovia (Polonia);28/02/1863;Ebreo;23/05/1944;Auschwitz
+315;Olga;Batschis;Monaco di Baviera (Germania);20/06/1891;Ebreo;Ignoto;Ignoto
+316;Olga;Baum;Vukovar (Jugoslavia);01/01/1890;Ebreo;Ignoto;Ignoto
+317;Margarethe;Baumann;Vienna (Austria);08/05/1890;Ebreo;Ignoto;Ignoto
+318;Wolf;Baumwollspinner;Przemysl (Polonia);15/09/1882;Ebreo;30/06/1944;Auschwitz
+319;Rita;Bayona;Nervi;17/11/1927;Ebreo;ott-44;Ignoto
+321;Karl;Beer;Vienna (Austria);02/10/1888;Ebreo;Ignoto;Ignoto
+324;Berta;Behar;Keszthely (Ungheria);20/01/1893;Ebreo;Ignoto;Ignoto
+325;Davide;Behar;Sarajevo (Jugoslavia);09/09/1896;Ebreo;ott-44;Bergen Belsen
+326;Donna;Behar;Edirne (Turchia);15/05/1883;Ebreo;06/08/1944;Auschwitz
+327;Rachele Rosy;Behar;Trieste (Austria);30/09/1908;Ebreo;08/05/1945;Bergen Belsen
+328;Anton;Bein;Pecs (Ungheria);15/07/1882;Ebreo;10/04/1944;Auschwitz
+329;Cecilia;Belinkins;Tighina (Romania);10/06/1908;Ebreo;Ignoto;Ignoto
+330;Evelyn;Bellak;Francoforte (Germania);17/10/1875;Ebreo;10/04/1944;Auschwitz
+332;Vittorina;Belleli;Genova;23/02/1892;Ebreo;06/08/1944;Auschwitz
+333;Giacomo;Bembassat;Istanbul (Turchia);21/11/1917;Ebreo;Ignoto;Ignoto
+334;Vittorio;Bembassat;Edirne (Turchia);10/06/1888;Ebreo;Ignoto;Ignoto
+335;Aldo;Bemporad;Firenze;24/03/1883;Ebreo;23/05/1944;Auschwitz
+336;Amedeo;Bemporad;Pisa;08/05/1869;Ebreo;30/06/1944;Auschwitz
+337;Anna;Bemporad;Firenze;15/11/1917;Ebreo;feb-45;Bergen Belsen
+338;Annita;Bemporad;Siena;19/02/1904;Ebreo;Ignoto;Ignoto
+339;Arnoldo;Bemporad;Firenze;15/05/1890;Ebreo;09/03/1945;Dachau
+340;Bianca;Bemporad;Baura;06/03/1892;Ebreo;Ignoto;Ignoto
+341;Gemma;Bemporad;Siena;07/01/1863;Ebreo;30/06/1944;Auschwitz
+342;Giorgio;Bemporad;Piombino;15/05/1928;Ebreo;Ignoto;Ignoto
+343;Jole;Bemporad;Urbino;06/10/1886;Ebreo;Ignoto;Ignoto
+344;Lidia;Bemporad;Rio Marina;04/06/1922;Ebreo;feb-45;Bergen Belsen
+345;Marcella;Bemporad;Firenze;24/06/1916;Ebreo;feb-45;Bergen Belsen
+346;Mirella;Bemporad;Firenze;08/07/1924;Ebreo;30/04/1945;Bergen Belsen
+347;Silvio;Bemporad;Baura;22/10/1890;Ebreo;Ignoto;Ignoto
+348;Ugo;Bemporad;Firenze;30/01/1897;Ebreo;30/04/1944;Ignoto
+352;Luciano;Benedetti;Alessandria (Egitto);10/03/1907;Ebreo;Ignoto;Ignoto
+353;Maurizio;Benghiat;Smirne (Turchia);19/01/1891;Ebreo;26/02/1944;Auschwitz
+354;Bulissa Luisa;Beniacar;Smirne (Turchia);15/01/1928;Ebreo;26/02/1944;Auschwitz
+355;Giacobbe Giacomo;Beniacar;Smirne (Turchia);13/12/1931;Ebreo;26/02/1944;Auschwitz
+357;Moise;Beniacar;Smirne (Turchia);06/12/1899;Ebreo;05/05/1944 19/12/2016;Auschwitz
+358;Perla;Beniacar;Livorno;19/06/1935;Ebreo;26/02/1944;Auschwitz
+359;Alberto;Benigno;Roma;07/01/1907;Ebreo;gen-45;Ignoto
+361;Eugenio;Benigno;Roma;21/09/1910;Ebreo;20/03/1945;Dachau
+362;Giulia;Benigno;Roma;02/06/1912;Ebreo;nov-44;Ignoto
+363;Letizia;Benigno;Roma;14/10/1908;Ebreo;nov-44;Ignoto
+384;Adolf;Berger;Vienna (Austria);27/05/1889;Ebreo;23/05/1944;Auschwitz
+385;Alberto;Berger;Susak (Jugoslavia);20/08/1899;Ebreo;Ignoto;Ignoto
+386;Arnold;Berger;Fiume;03/11/1936;Ebreo;23/05/1944;Auschwitz
+387;Carlo;Berger;Fiume;08/01/1930;Ebreo;Ignoto;Ignoto
+388;Elisabetta;Berger;Fiume;08/07/1939;Ebreo;23/05/1944;Auschwitz
+389;Erna;Berger;Fiume;06/01/1921;Ebreo;gen-45;Auschwitz
+390;Giuseppe;Berger;Zaluzice (Cecoslovacchia);15/02/1921;Ebreo;Ignoto;Ignoto
+391;Giuseppe;Berger;Fiume;02/05/1924;Ebreo;ott-44;Ignoto
+392;Hedwig;Berger;Vienna (Austria);19/09/1894;Ebreo;Ignoto;Ignoto
+393;Margarete;Berger;Krnov (Cecoslovacchia);11/02/1883;Ebreo;23/05/1944;Auschwitz
+394;Maurice;Berger;Lione (Francia);23/05/1905;Ebreo;ott-44;Ignoto
+395;Max;Berger;Vienna (Austria);26/05/1892;Ebreo;Ignoto;Ignoto
+396;Gino;Bergmann;Verona;26/06/1882;Ebreo;06/08/1944;Auschwitz
+400;Arrigo;Bernau;Venezia;24/11/1886;Ebreo;Ignoto;Ignoto
+401;Semil;Bersciadski;Chisinau (Romania);20/07/1899;Ebreo;Ignoto;Ignoto
+402;Berta;Bertiner;Vienna (Austria);04/07/1898;Ebreo;Ignoto;Ignoto
+403;Henriette;Bettmann;Colonia (Germania);05/03/1896;Ebreo;Ignoto;Ignoto
+404;Edoardo;Bigiavi;Alessandria (Egitto);16/12/1874;Ebreo;23/05/1944;Auschwitz
+407;Ignaz;Birkenfeld;Ivanic (Jugoslavia);26/10/1894;Ebreo;Ignoto;Ignoto
+408;Max;Birnbaum;(fuori d'Italia);16/01/1897;Ebreo;Ignoto;Ignoto
+409;Rosa;Birnbaum;Selets (URSS);15/02/1879;Ebreo;26/02/1944;Auschwitz
+410;Alberto;Birò;Szombathely (Ungheria);02/05/1908;Ebreo;Ignoto;Ignoto
+411;David;Bivash;Salonicco (Grecia);01/06/1890;Ebreo;Ignoto;Ignoto
+412;Raffaello;Blanes;Firenze;10/02/1877;Ebreo;30/06/1944;Auschwitz
+413;Debora;Blank;Cholojow (Austria-Ungheria);01/06/1886;Ebreo;26/02/1944;Auschwitz
+414;Emilio;Blatteis;(fuori d'Italia);11/08/1903;Ebreo;26/02/1944;Auschwitz
+415;Giovanni;Blau;Vienna (Austria-Ungheria);18/02/1885;Ebreo;Data ignota;Luogo ignoto
+416;Margarethe;Bloch;Berlino (Germania);21/03/1892;Ebreo;Ignoto;Ignoto
+418;Carolina;Blum Gelweiler;Sulz (Austria);21/02/1881;Ebreo;10/04/1944;Auschwitz
+419;Magda;Bodner;Caprino;10/01/1942;Ebreo;10/04/1944;Auschwitz
+420;Anna;Bogner;Zborow (Polonia);23/11/1877;Ebreo;23/05/1944;Auschwitz
+422;Alfredo;Bondì;Roma;02/12/1902;Ebreo;30/06/1944;Auschwitz
+424;Margherita;Bondì;Sezze;22/03/1897;Ebreo;23/05/1944;Auschwitz
+425;Pace;Bondì;Roma;08/08/1892;Ebreo;30/06/1944;Auschwitz
+426;Ella;Bondy;(fuori d'Italia);22/06/1880;Ebreo;10/04/1944;Auschwitz
+427;Stella;Boniel;Istanbul (Turchia);1878;Ebreo;26/02/1944;Auschwitz
+428;Giorgia;Borghi;Ferrara;25/07/1896;Ebreo;Ignoto;Ignoto
+429;Luigi;Borsetti;Roma;29/06/1913;Ebreo;Ignoto;Ignoto
+430;Giulia;Brainin;Pinsk (Polonia);15/09/1889;Ebreo;Ignoto;Ignoto
+431;Hermann;Brender;Mukacevo (Cecoslovacchia);26/03/1912;Ebreo;Ignoto;Ignoto
+432;Franz;Brennitzer;Breslavia (Germania);05/12/1879;Ebreo;30/06/1944;Auschwitz
+433;Magdalena;Bretschneider;Vienna (Austria);06/08/1900;Ebreo;Ignoto;Ignoto
+434;Edmondo;Breuer;Merano;22/07/1909;Ebreo;gen-45;Ignoto
+435;Paul;Bringer;Strasburgo (Francia);08/06/1900;Ebreo;set-44;Ignoto
+436;Berta;Brosan;Meseritz (Germania);27/12/1885;Ebreo;23/05/1944;Auschwitz
+437;Samuele Noè;Brucker;Istanbul (Turchia);13/06/1899;Ebreo;Ignoto;Ignoto
+438;Giulia;Brull;Velky Fedymes (Cecoslovacchia);22/02/1892;Ebreo;Ignoto;Ignoto
+456;Jacob;Buchaster;Lipsia (Germania);13/10/1900;Ebreo;Ignoto;Ignoto
+470;Lella;Burlan;Belgrado (Jugoslavia);05/05/1896;Ebreo;Ignoto;Ignoto
+471;Pia;Cabibbe;Siena;07/01/1867;Ebreo;30/06/1944;Auschwitz
+472;Masalta;Cabilio;Sarajevo (Jugoslavia);25/08/1885;Ebreo;Ignoto;Ignoto
+473;Bruno;Cagli;Ancona;12/12/1905;Ebreo;dic-44;Auschwitz
+474;Adele Maria;Calabi;Verona;16/07/1882;Ebreo;06/08/1944;Auschwitz
+475;Benedetto;Calabi;Verona;08/10/1878;Ebreo;30/06/1944;Auschwitz
+476;Emilia;Calef;Parigi (Francia);15/06/1935;Ebreo;23/05/1944;Auschwitz
+477;Maurice;Calef;Parigi (Francia);20/04/1940;Ebreo;23/05/1944;Auschwitz
+478;Raoul Raffaele;Calef;Smirne (Turchia);04/03/1906;Ebreo;Ignoto;Ignoto
+479;Emma Gertrude;Calimani;Venezia;18/07/1875;Ebreo;26/02/1944;Auschwitz
+480;Lea Rita;Calimani;Venezia;21/12/1892;Ebreo;Ignoto;Ignoto
+481;Susanna;Calimani;Venezia;01/08/1883;Ebreo;26/02/1944;Auschwitz
+482;Alberta;Calò;Bologna;11/01/1935;Ebreo;30/04/1944;Auschwitz
+483;Alberto;Calò;Roma;21/05/1903;Ebreo;01/07/1944;Ignoto
+485;Alberto;Calò;Arezzo;17/06/1943;Ebreo;23/05/1944;Auschwitz
+488;Armanda;Calò;Roma;22/07/1913;Ebreo;23/05/1944;Auschwitz
+489;Aureliano;Calò;Bologna;02/07/1932;Ebreo;30/04/1944;Auschwitz
+490;Dante;Calò;Roma;10/08/1890;Ebreo;Ignoto;Ignoto
+491;David;Calò;Roma;10/08/1917;Ebreo;03/03/1945;Buchenwald
+492;David;Calò;Roma;16/12/1919;Ebreo;06/03/1945;Flossenbuerg
+493;Elena;Calò;Firenze;05/09/1854;Ebreo;30/06/1944;Auschwitz
+494;Elena;Calò;Firenze;14/03/1875;Ebreo;30/06/1944;Auschwitz
+495;Elena;Calò;Firenze;26/09/1937;Ebreo;23/05/1944;Auschwitz
+496;Emilio;Calò;Firenze;03/01/1884;Ebreo;26/02/1944;Auschwitz
+497;Enrica;Calò;Roma;11/10/1905;Ebreo;nov-44;Ignoto
+498;Ernesto;Calò;Firenze;02/06/1877;Ebreo;30/06/1944;Auschwitz
+499;Ester;Calò;Firenze;18/01/1865;Ebreo;30/06/1944;Auschwitz
+501;Flora;Calò;Roma;23/09/1880;Ebreo;30/06/1944;Auschwitz
+502;Giovanni;Calò;Roma;19/10/1901;Ebreo;16/02/1945;Gross Rosen
+503;Giovanni;Calò;Roma;21/06/1909;Ebreo;mar-45;Ignoto
+504;Giuseppe Felice;Calò;Trieste;30/06/1923;Ebreo;gen-45;Ignoto
+505;Grazia;Calò;Roma;20/07/1904;Ebreo;Ignoto;Ignoto
+506;Graziadio;Calò;Roma;08/01/1876;Ebreo;Ignoto;Ignoto
+510;Mosè Marco;Calò;Roma;25/01/1909;Ebreo;set-44;Ignoto
+511;Pacifico;Calò;Roma;07/02/1885;Ebreo;10/04/1944;Auschwitz
+512;Prospero;Calò;Roma;09/08/1894;Ebreo;Ignoto;Ignoto
+515;Renzo;Calò;Arezzo;03/10/1938;Ebreo;23/05/1944;Auschwitz
+516;Ricca;Calò;Roma;11/03/1891;Ebreo;Ignoto;Ignoto
+517;Rosina Rosa;Calò;Trieste;28/04/1922;Ebreo;feb-45;Bergen Belsen
+519;Virginia;Calò;Firenze;28/10/1889;Ebreo;Ignoto;Ignoto
+520;Vittorio;Calò;Roma;28/09/1924;Ebreo;10/11/1944;Natzweiler
+521;Emilia Lea;Camerini;Pitigliano;15/07/1895;Ebreo;23/05/1944;Ignoto
+522;Emma;Camerini;Alessandria d'Egitto (Egitto);08/08/1870;Ebreo;Ignoto;Ignoto
+523;Natalie;Camerini;Trieste (Austria);21/12/1852;Ebreo;30/06/1944;Auschwitz
+524;Raffaele;Camerini;Trieste (Austria);17/09/1863;Ebreo;30/06/1944;Auschwitz
+525;Ulda;Camerini;Parma;20/06/1906;Ebreo;10/04/1944;Auschwitz
+526;Gilberto;Camerino;Roma;19/08/1895;Ebreo;19/01/1945;Dachau
+528;Lorenzo;Cammeo;Livorno;05/04/1920;Ebreo;28/02/1945;Gross Rosen
+529;Maria;Cammeo;Firenze;21/10/1902;Ebreo;ott-44;Auschwitz
+530;Aldo;Campagnano;Firenze;02/05/1910;Ebreo;gen-45;Ignoto
+531;Anna Lia;Campi;Trieste;08/08/1929;Ebreo;Ignoto;Ignoto
+532;Massimiliano;Campi;Leopoli (Polonia);28/01/1886;Ebreo;Ignoto;Ignoto
+533;Elio;Camponore;Vienna (Austria);03/06/1890;Ebreo;Ignoto;Ignoto
+534;Bechor Viktor;Canarutto;Suez (Egitto);17/08/1879;Ebreo;23/05/1944;Auschwitz
+535;Amelia;Cantoni;Trieste (Austria);04/11/1887;Ebreo;Ignoto;Ignoto
+536;Carlotta;Cantoni;Vicenza;20/12/1883;Ebreo;26/02/1944;Auschwitz
+537;Ida Eugenia;Cantoni;Este;24/03/1891;Ebreo;10/04/1944;Auschwitz
+538;Luciano;Cantoni;Trieste;19/08/1923;Ebreo;Ignoto;Ignoto
+539;Charles;Cantor;Colmar (Francia);01/04/1891;Ebreo;Ignoto;Ignoto
+540;Paolina;Capua;Firenze;28/07/1875;Ebreo;30/06/1944;Auschwitz
+542;Rosa;Cardoso;Firenze;09/06/1892;Ebreo;23/05/1944;Auschwitz
+543;Ugo;Cardoso;Firenze;28/09/1885;Ebreo;Ignoto;Ignoto
+544;Cesare;Carmi;Genova;15/02/1923;Ebreo;gen-45;Auschwitz
+545;Colomba Ermellina;Carmi;Alessandria;05/05/1891;Ebreo;26/02/1944;Auschwitz
+546;Ermene Ester;Carmi;Alessandria;05/02/1890;Ebreo;26/02/1944;Auschwitz
+547;Ida Gina;Carmi;Vercelli;02/08/1880;Ebreo;06/08/1944;Auschwitz
+548;Isaia;Carmi;Casale Monferrato;21/02/1885;Ebreo;Ignoto;Ignoto
+549;Alberto;Caro;Livorno;07/12/1906;Ebreo;mar-45;Auschwitz
+550;Claudio;Caro;Livorno;14/11/1864;Ebreo;30/06/1944;Auschwitz
+552;Violetta;Caro;Milano;14/03/1937;Ebreo;Ignoto;Ignoto
+553;Ida;Cases;Mantova;28/01/1877;Ebreo;10/04/1944;Auschwitz
+554;Moisè Giulio;Cases;Mantova;23/05/1889;Ebreo;Ignoto;Ignoto
+555;Alberto;Cassin;Busca;03/02/1916;Ebreo;26/02/1944;Auschwitz
+556;Arturo Salomone;Cassin;Cuneo;01/07/1899;Ebreo;Ignoto;Ignoto
+557;Eugenia;Cassin;Caraglio;05/10/1892;Ebreo;Ignoto;Ignoto
+558;Albertina;Cassuto;Firenze;19/05/1889;Ebreo;Ignoto;Ignoto
+559;Ugo;Cassuto;Livorno;04/07/1893;Ebreo;Ignoto;Ignoto
+560;Renato;Castelfranchi;Ferrara;06/11/1878;Ebreo;26/02/1944;Auschwitz
+561;Elena;Castelfranco;Trieste (Austria);17/01/1879;Ebreo;30/06/1944;Auschwitz
+562;Emma;Castelfranco;Modena;17/06/1877;Ebreo;30/06/1944;Auschwitz
+563;Olga;Castelfranco;Trieste (Austria);15/05/1877;Ebreo;30/06/1944;Auschwitz
+568;Viktor;Castelletti;Livorno;26/11/1933;Ebreo;26/02/1944;Auschwitz
+569;Adriana;Castelli;Livorno;02/12/1886;Ebreo;Data ignota;Luogo ignoto
+570;Elena;Castelli;Firenze;22/08/1906;Ebreo;Ignoto;Ignoto
+571;Enrico;Castelli;Livorno;05/12/1869;Ebreo;23/05/1944;Auschwitz
+572;Giulio Cesare;Castelli;Roma;30/06/1887;Ebreo;Ignoto;Ignoto
+573;Olga Renata;Castelli;Palermo;15/03/1919;Ebreo;ago-44;Ignoto
+574;Nella;Castiglioni;Firenze;05/07/1890;Ebreo;23/05/1944;Auschwitz
+575;Aldo;Cava;Livorno;07/03/1899;Ebreo;giu-44;Auschwitz
+576;Enzo;Cava;Livorno;28/05/1936;Ebreo;23/05/1944;Auschwitz
+577;Franca;Cava;Livorno;01/01/1931;Ebreo;23/05/1944;Auschwitz
+578;Emanuele;Cavaglione;Genova;17/03/1880;Ebreo;30/06/1944;Auschwitz
+579;Argia;Cavalieri;Rovigo;29/10/1875;Ebreo;10/04/1944;Auschwitz
+581;Beniamino;Caviglia;Roma;28/10/1910;Ebreo;15/02/1945;Dachau
+582;Elia;Caviglia;Roma;15/11/1919;Ebreo;gen-45;Natzweiler
+585;Guglielmo;Caviglia;Roma;30/07/1889;Ebreo;Ignoto;Ignoto
+586;Santoro;Caviglia;Roma;19/04/1908;Ebreo;15/02/1945;Ignoto
+587;Sole;Caviglia;Roma;02/10/1871;Ebreo;10/04/1944;Auschwitz
+588;Maurizio;Cervi;Nizza (Francia);26/06/1917;Ebreo;ago-44;Ignoto
+591;Mendel;Chochenbaum;Lodz (Polonia);11/03/1899;Ebreo;Ignoto;Ignoto
+592;Alberto;Chimichi;Roma;11/07/1892;Ebreo;Ignoto;Ignoto
+593;Noemi;Cingoli;Roma;25/09/1913;Ebreo;23/05/1944;Auschwitz
+595;Prospero;Citoni;Roma;14/09/1867;Ebreo;30/06/1944;Auschwitz
+596;Abramo Bechor;Cittone;Istanbul (Turchia);03/10/1891;Ebreo;Ignoto;Ignoto
+597;Mordechai Max;Cittone;Istanbul (Turchia);12/06/1927;Ebreo;gen-45;Ignoto
+598;Nissim;Cittone;Istanbul (Turchia);17/11/1931;Ebreo;ott-44;Ignoto
+599;Raffaele;Cittone;Istanbul (Turchia);02/04/1930;Ebreo;Ignoto;Ignoto
+601;Vittoria;Cittone;Livorno;29/12/1937;Ebreo;26/02/1944;Auschwitz
+602;Donna;Civere;Plovdiv (Bulgaria);1880;Ebreo;10/04/1944;Auschwitz
+604;Angelo;Cividali;Bologna;03/11/1930;Ebreo;26/02/1944;Auschwitz
+605;Aldo Giorgio;Cividali;Bologna;10/02/1894;Ebreo;26/02/1944;Auschwitz
+606;Sergio;Cividali;Bologna;20/12/1928;Ebreo;26/02/1944;Auschwitz
+607;Alba;Clerle;Venezia;06/09/1879;Ebreo;26/02/1944;Auschwitz
+608;Adele;Coen;Trieste (Austria);04/05/1881;Ebreo;26/02/1944;Auschwitz
+609;Cesira Amelia;Clerle;Venezia;20/07/1876;Ebreo;26/02/1944;Auschwitz
+610;Alberto;Coen;Roma;25/03/1918;Ebreo;mar-45;Buchenwald
+611;Alice;Coen;Trieste (Austria);01/01/1873;Ebreo;26/02/1944;Auschwitz
+612;Alvaro;Coen;Roma;29/04/1936;Ebreo;23/05/1944;Auschwitz
+613;Armando;Coen;Roma;14/07/1921;Ebreo;06/04/1945;Gross Rosen
+614;Arrigo;Coen;Urbino;17/09/1879;Ebreo;10/04/1944;Auschwitz
+615;Daniele;Cohen (o Coen);Roma;07/06/1940;Ebreo;26/02/1944;Auschwitz
+616;Diamante;Coen;Ancona;07/06/1864;Ebreo;30/06/1944;Auschwitz
+617;Elena;Coen;Milano;25/01/1893;Ebreo;Ignoto;Ignoto
+618;Ettore;Coen;Roma;06/04/1883;Ebreo;10/04/1944;Auschwitz
+619;Flora;Coen;Firenze;03/03/1871;Ebreo;30/06/1944;Auschwitz
+620;Giorgio;Coen;Chieti;23/03/1911;Ebreo;15/11/1944;Auschwitz
+621;Giuseppe;Coen;Villimpienta;01/01/1913;Ebreo;27/05/1944;Auschwitz
+622;Giuseppina;Coen;Ferrara;24/06/1869;Ebreo;10/04/1944;Auschwitz
+624;Ione;Coen;Mantova;27/10/1883;Ebreo;23/05/1944;Auschwitz
+625;Isacco;Coen;Alessandria d'Egitto (Egitto);19/05/1888;Ebreo;06/08/1944;Auschwitz
+626;Marcello;Coen;Mantova;23/10/1886;Ebreo;Data ignota;Auschwitz
+628;Mosè;Coen;Ancona;24/11/1891;Ebreo;Ignoto;Ignoto
+629;Porzia;Coen;Firenze;13/02/1867;Ebreo;30/06/1944;Auschwitz
+630;Regina Fortunata;Coen;Livorno;22/09/1865;Ebreo;30/06/1944;Auschwitz
+631;Renato;Coen;Ancona;30/04/1909;Ebreo;Ignoto;Ignoto
+632;Romilda;Coen;Ancona;20/03/1902;Ebreo;Ignoto;Ignoto
+633;Salomone Saul;Coen;Roma;15/04/1897;Ebreo;19/12/1945;Dachau
+634;Umberto;Coen;Ancona;17/07/1914;Ebreo;21/04/1945;Mauthausen
+635;Zaira;Coen;Mantova;04/10/1879;Ebreo;23/05/1944;Auschwitz
+636;Lucio;Coen Beninfante;Ancona;13/12/1906;Ebreo;set-44;Ignoto
+637;Giacomo;Coen Luzzato;Trieste (Austria);06/06/1881;Ebreo;30/06/1944;Auschwitz
+638;Liana;Coen Pirani;Pisa;14/04/1906;Ebreo;08/02/1945;Auschwitz
+639;Amelia;Coen Porto;Venezia;25/04/1873;Ebreo;10/04/1944;Auschwitz
+640;Augusto;Coen Porto;Venezia;08/07/1869;Ebreo;26/02/1944;Auschwitz
+641;Vittorio;Coen Porto;Venezia;18/07/1866;Ebreo;10/04/1944;Auschwitz
+642;Adolfo;Cohen;Trieste (Austria);29/07/1889;Ebreo;Ignoto;Ignoto
+648;Isacco;Cohen;Seresek (Turchia);29/07/1890;Ebreo;06/08/1944;Auschwitz
+654;Reneè;Cohen (o Coen);Parigi (Francia);20/03/1914;Ebreo;Ignoto;Ignoto
+656;Carlo;Cohen Venezian;Porto Said (Egitto);09/07/1886;Ebreo;Ignoto;Ignoto
+657;Luisa Itala;Cohen Venezian;Porto Said (Egitto);28/11/1884;Ebreo;30/06/1944;Auschwitz
+658;Olga;Cohen Venezian;Porto Said (Egitto);28/11/1884;Ebreo;30/06/1944;Auschwitz
+659;Kaethe;Collin;Nordhausen (Germania);02/11/1886;Ebreo;Ignoto;Ignoto
+660;Ada;Colombo;Savigliano;30/11/1895;Ebreo;Ignoto;Ignoto
+661;Alberto;Colombo;Asti;27/05/1875;Ebreo;01/09/1944;Auschwitz
+662;Amerigo;Colombo;Asti;02/12/1913;Ebreo;01/09/1944;Auschwitz
+663;Elena;Colombo;Savigliano;04/01/1898;Ebreo;Ignoto;Ignoto
+664;Elena;Colombo;Torino;05/06/1933;Ebreo;10/04/1944;Auschwitz
+665;Elia Enea;Colombo;Saluzzo;26/08/1883;Ebreo;06/08/1944;Auschwitz
+666;Ester Giovanna;Colombo;Padova;09/03/1927;Ebreo;Ignoto;Ignoto
+667;Eugenio;Colombo;Trento;15/09/1870;Ebreo;30/06/1944;Auschwitz
+668;Gemma;Colombo;Saluzzo;03/07/1879;Ebreo;26/02/1944;Auschwitz
+669;Mario;Colombo;Napoli;21/08/1883;Ebreo;10/04/1944;Auschwitz
+670;Norma;Colombo;Padova;24/02/1899;Ebreo;Ignoto;Ignoto
+671;Prima;Colombo;Asti;02/02/1873;Ebreo;30/06/1944;Auschwitz
+672;Sara;Colombo;Torino;15/03/1876;Ebreo;10/04/1944;Auschwitz
+673;Palmira;Colonna;Torino;17/11/1872;Ebreo;30/06/1944;Auschwitz
+674;Bellina Lina Augusta;Colorni;Mantova;10/03/1892;Ebreo;Ignoto;Ignoto
+675;Bruno;Conegliano;Trieste (Austria);24/02/1897;Ebreo;Ignoto;Ignoto
+676;Giulio;Conegliano;Trieste (Austria);26/10/1894;Ebreo;23/02/1945;Mauthausen
+677;Flaminio;Corcos;Livorno;04/10/1865;Ebreo;26/02/1944;Auschwitz
+679;Ada;Corinaldi;Reggio Emilia;03/03/1877;Ebreo;26/02/1944;Auschwitz
+680;Bice;Corinaldi;Reggio Emilia;16/12/1873;Ebreo;26/02/1944;Auschwitz
+681;Corinna Anna;Corinaldi;Padova;06/05/1885;Ebreo;26/02/1944;Auschwitz
+682;Gustavo;Corinaldi;Scandiano;06/03/1881;Ebreo;26/02/1944;Auschwitz
+683;Olga;Corinaldi;Reggio Emilia;09/08/1888;Ebreo;Ignoto;Ignoto
+684;Rosita;Corinaldi;Scandiano;02/11/1901;Ebreo;26/02/1944;Auschwitz
+685;Luisa Lenca;Corkidis;Tira (Egitto);10/02/1912;Ebreo;Ignoto;Ignoto
+686;Giulio;Cremisi;Alessandria d'Egitto (Egitto);19/02/1874;Ebreo;23/05/1944;Auschwitz
+687;Moisè Adolfo;Cremisi;Livorno;25/04/1874;Ebreo;23/05/1944;Auschwitz
+690;Eugenia;Cuzzeri;Verona;09/09/1880;Ebreo;31/03/1945;Ignoto
+691;Giacomo;Cuzzeri;Verona;18/06/1858;Ebreo;26/02/1944;Auschwitz
+693;Isabella;Da Fano;Reggio Emilia;18/11/1889;Ebreo;Ignoto;Ignoto
+694;Roma;Dalla Torre;Venezia;08/07/1890;Ebreo;Ignoto;Ignoto
+695;Alberto;Dalla Volta;Mantova;21/12/1922;Ebreo;gen-45;Ignoto
+696;Alfredo;Dalla Volta;Lugo;12/05/1897;Ebreo;gen-44;Ignoto
+697;Anna Viola;Dalla Volta;Bologna;15/05/1930;Ebreo;Ignoto;Ignoto
+698;Enrico;Dalla Volta;Firenze;27/02/1894;Ebreo;26/02/1944;Auschwitz
+699;Guido;Dalla Volta;Mantova;19/07/1894;Ebreo;15/11/1944;Auschwitz
+700;Margherita;Dalla Volta;Firenze;16/12/1903;Ebreo;Ignoto;Ignoto
+701;Paolo;Dalla Volta;Bologna;13/06/1927;Ebreo;gen-45;Ignoto
+702;Riccardo;Dalla Volta;Mantova;28/10/1862;Ebreo;10/04/1944;Auschwitz
+703;Ester;Dana;Milano;25/03/1936;Ebreo;ott-44;Auschwitz
+704;Isacco;Dana;Istanbul (Turchia);05/03/1903;Ebreo;dic-44;Ignoto
+706;Salvatore;Dana;Milano;05/12/1930;Ebreo;Ignoto;Ignoto
+707;Stella;Dana;Milano;20/11/1926;Ebreo;Ignoto;Ignoto
+708;Ester;Danon;Tira (Egitto);1879;Ebreo;23/05/1944;Auschwitz
+710;Elisabeth;Darvas;Ungheria;05/05/1897;Ebreo;Ignoto;Ignoto
+711;Aldo;De Angeli;Bologna;26/08/1903;Ebreo;Ignoto;Ignoto
+712;Umberto;De Angeli;Casale Monferrato;16/09/1887;Ebreo;Ignoto;Ignoto
+713;Bona;De Angelis;Casale Monferrato;31/12/1882;Ebreo;30/06/1944;Auschwitz
+725;Alice;De Benedetti;Asti;15/11/1881;Ebreo;30/06/1944;Auschwitz
+726;Amalia Perla;De Benedetti;Asti;09/02/1874;Ebreo;23/05/1944;Auschwitz
+727;Bruno;De Benedetti;Pisa;23/03/1911;Ebreo;31/12/1944;Dachau
+728;Emilia;De Benedetti;Cuneo;14/04/1907;Ebreo;26/02/1944;Auschwitz
+729;Enrica;De Benedetti;Vercelli;02/04/1866;Ebreo;30/06/1944;Auschwitz
+730;Eugenio;De Benedetti;Torino;19/08/1887;Ebreo;Ignoto;Ignoto
+731;Giorgia;De Benedetti;Belbo;05/08/1889;Ebreo;Ignoto;Ignoto
+732;Giorgio;De Benedetti;Roma;07/10/1896;Ebreo;Ignoto;Ignoto
+733;Ida;De Benedetti;Alessandria;13/10/1890;Ebreo;26/02/1944;Auschwitz
+734;Jolanda;De Benedetti;Alba;08/08/1901;Ebreo;26/02/1944;Auschwitz
+736;Mario;De Benedetti;Mantova;10/11/1892;Ebreo;07/04/1945;Mauthausen
+737;Hans;De Castro;Amburgo (Germania);25/06/1898;Ebreo;Ignoto;Ignoto
+739;Trude;De Kaiser;Vienna (Austria);21/02/1911;Ebreo;Ignoto;Ignoto
+740;Gabriella;De Cori;Pisa;01/05/1896;Ebreo;Ignoto;Ignoto
+742;Rosa;Deiler;Mielec (Polonia);18/12/1897;Ebreo;Ignoto;Ignoto
+743;Davide;De Leon;Venezia;23/10/1876;Ebreo;26/02/1944;Auschwitz
+744;Rosa;De Leon;Venezia;27/09/1878;Ebreo;26/02/1944;Auschwitz
+746;Cesare Davide;Della Pergola;Parma;19/01/1935;Ebreo;10/04/1944;Auschwitz
+747;Donato;Della Pergola;Parma;30/03/1932;Ebreo;10/04/1944;Auschwitz
+748;Ester;Della Pergola;Signa;20/11/1866;Ebreo;30/06/1944;Auschwitz
+749;Giuseppe;Della Pergola;Signa;08/09/1868;Ebreo;30/06/1944;Auschwitz
+750;Steno;Della Pergola;Gorizia (Austria);11/04/1907;Ebreo;mag-44;Ignoto
+751;Ernesto;Dell'Ariccia;Roma;24/02/1913;Ebreo;Ignoto;Ignoto
+752;Benedetto;Dell'Ariccia;Roma;11/03/1874;Ebreo;30/06/1944;Auschwitz
+753;Benedetto;Dell'Ariccia;Roma;07/10/1923;Ebreo;Ignoto;Ignoto
+754;Berta;Della Riccia;Pisa;20/10/1910;Ebreo;Ignoto;Ignoto
+755;Erasmo;Della Riccia;Livorno;16/08/1887;Ebreo;Ignoto;Ignoto
+756;Fortunato;Della Riccia;Roma;02/10/1884;Ebreo;23/05/1944;Auschwitz
+757;Luciana;Della Riccia;Livorno;19/06/1917;Ebreo;set-44;Auschwitz
+758;Angelo;Della Rocca;Roma;06/10/1888;Ebreo;Ignoto;Ignoto
+759;Costanza;Della Rocca;Roma;01/11/1901;Ebreo;Ignoto;Ignoto
+760;Lello;Della Rocca;Roma;11/11/1919;Ebreo;Ignoto;Auschwitz
+761;Rubino;Della Rocca;Roma;07/08/1901;Ebreo;25/01/1945;Auschwitz
+762;Settimio;Della Rocca;Roma;11/04/1899;Ebreo;02/05/1945;Gross Rosen
+763;Dino;Della Seta;Roma;21/07/1905;Ebreo;Ignoto;Ignoto
+764;Eva;Della Seta;Roma;10/06/1884;Ebreo;23/05/1944;Auschwitz
+765;Gina;Della Seta;Castel Gandolfo;03/09/1894;Ebreo;23/05/1944;Auschwitz
+766;Giovanni;Della Seta;Roma;18/01/1883;Ebreo;23/05/1944;Auschwitz
+767;Valentina;Della Seta;Roma;04/10/1878;Ebreo;23/05/1944;Auschwitz
+768;Ada;Della Torre;Sarzana;23/09/1892;Ebreo;Ignoto;Ignoto
+769;Attilio Salomone;Della Torre;Firenze;16/02/1873;Ebreo;10/04/1944;Auschwitz
+770;Elena Gina;Della Torre;Livorno;19/09/1885;Ebreo;23/05/1944;Auschwitz
+771;Mosè;Della Torre;Roma;01/09/1879;Ebreo;30/06/1944;Auschwitz
+772;Ada;Del Mare;Torino;10/02/1901;Ebreo;Ignoto;Ignoto
+774;Italia;Del Monte;Roma;21/03/1896;Ebreo;Ignoto;Ignoto
+775;Leonello;Del Monte;Roma;06/11/1911;Ebreo;20/03/1945;Bergen Belsen
+776;Vittorio;Del Monte;Roma;30/07/1893;Ebreo;30/09/1944;Auschwitz
+777;Vittorio Emanuele;Del Monte;Roma;06/12/1896;Ebreo;29/09/1944;Auschwitz
+778;Riccardo;De Nola;Roma;25/10/1926;Ebreo;nov-44;Ignoto
+779;Sergio;De Nola;Roma;02/04/1920;Ebreo;nov-44;Ignoto
+780;Maurice Mosè;Derczanski;Wilno (Polonia);01/01/1889;Ebreo;Ignoto;Ignoto
+782;Guglielmo;Diamante;Padova;30/10/1871;Ebreo;30/06/1944;Auschwitz
+784;Bruno;Dias;Torino;12/09/1925;Ebreo;07/04/1945;Buchenwald
+785;Mosè;Di Capua;Roma;19/02/1883;Ebreo;30/06/1944;Auschwitz
+786;Mosè;Di Capua;Roma;10/08/1920;Ebreo;mar-45;Ignoto
+787;Sabatino;Di Capua;Roma;10/04/1910;Ebreo;Ignoto;Ignoto
+788;Adolfo;Di Castro;Roma;29/07/1914;Ebreo;23/04/1945;Mauthausen
+789;Adolfo;Di Castro;Roma;19/04/1927;Ebreo;Ignoto;Ignoto
+790;Angelo;Di Castro;Roma;20/01/1916;Ebreo;feb-45;Ignoto
+791;Crescenzio;Di Castro;Roma;20/11/1907;Ebreo;30/04/1945;Mauthausen
+792;Crescenzio;Di Castro;Roma;12/05/1913;Ebreo;15/01/1945;Auschwitz
+793;Giorgio;Di Castro;Roma;16/01/1921;Ebreo;gen-45;Auschwitz
+794;Giovanni;Di Castro;Roma;03/03/1944;Ebreo;23/05/1944;Auschwitz
+795;Giuliana Colomba;Di Castro;Roma;17/03/1941;Ebreo;23/05/1944;Auschwitz
+796;Giuseppe;Di Castro;Roma;03/11/1893;Ebreo;ott-44;Ignoto
+797;Pace;Di Castro;Roma;06/02/1923;Ebreo;Ignoto;Ignoto
+798;Perna;Di Castro;Roma;14/07/1879;Ebreo;23/12/1944;Ignoto
+799;Samuele;Di Castro;Roma;28/08/1925;Ebreo;10/10/1944;Auschwitz
+800;Settimio;Di Castro;Roma;05/08/1916;Ebreo;09/03/1945;Flossenbürg
+801;Edmondo;Di Cave;Velletri;02/06/1911;Ebreo;gen-45;Auschwitz
+802;Pia;Di Cave;Roma;27/04/1892;Ebreo;Ignoto;Ignoto
+803;Cesare;Di Consiglio;Roma;05/03/1906;Ebreo;20/04/1945;Dachau
+805;Cesare Elvezio;Di Consiglio;Roma;10/11/1942;Ebreo;23/05/1944;Auschwitz
+807;David;Di Consiglio;Roma;31/07/1902;Ebreo;gen-45;Ignoto
+809;Leonello;Di Consiglio;Roma;25/09/1906;Ebreo;29/09/1944;Auschwitz
+810;Lina;Di Consiglio;Roma;26/07/1939;Ebreo;23/05/1944;Auschwitz
+811;Marisa;Di Consiglio;Roma;18/02/1938;Ebreo;23/05/1944;Auschwitz
+812;Pacifico;Di Consiglio;Roma;21/12/1904;Ebreo;31/10/1944;Auschwitz
+813;Pacifico;Di Consiglio;Roma;31/08/1927;Ebreo;24/11/1944;Auschwitz
+814;Pacifico;Di Consiglio;Anzio;26/11/1910;Ebreo;10/04/1945;Mauthausen
+815;Rina Ester;Di Consiglio;Roma;28/02/1934;Ebreo;23/05/1944;Auschwitz
+816;Tranquillo;Di Consiglio;Roma;04/09/1967;Ebreo;30/06/1944;Auschwitz
+818;Amedeo;Di Cori;Roma;13/12/1927;Ebreo;20/01/1945;Natzweiler
+819;Amedeo;Di Cori;Roma;29/08/1902;Ebreo;25/01/1945;Auschwitz
+820;Beniamino;Di Cori;Roma;03/10/1879;Ebreo;30/06/1944;Auschwitz
+821;Dario;Di Cori;Roma;06/01/1905;Ebreo;18/10/1944;Auschwitz
+822;Giovanni;Di Cori;Roma;18/11/1908;Ebreo;25/01/1945;Buchenwald
+823;Settimio;Di Cori;Roma;07/03/1907;Ebreo;10/05/1945;Dachau
+824;Settimio;Di Cori;Gorla;23/05/1920;Ebreo;22/04/1945;Mauthausen
+825;Augusta;Diena;Bologna;27/08/1867;Ebreo;30/06/1944;Auschwitz
+826;Giuseppina;Diena;Bologna;27/08/1863;Ebreo;30/06/1944;Auschwitz
+827;Ida;Diena;Bologna;08/09/1861;Ebreo;30/06/1944;Auschwitz
+828;Lea;Diena;Carmagnola;22/07/1878;Ebreo;23/05/1944;Auschwitz
+829;Remigio;Diena;Milano;13/03/1923;Ebreo;gen-45;Auschwitz
+830;Rodolfo;Diena;La Spezia;17/03/1907;Ebreo;13/03/1944;Auschwitz
+833;Angelo;Di Laudadio;Roma;15/09/1909;Ebreo;Ignoto;Ignoto
+834;Adele;Dina;Venezia;26/06/1890;Ebreo;Ignoto;Ignoto
+835;Anna;Dina;Venezia;08/02/1936;Ebreo;26/02/1944;Auschwitz
+836;Dino Davide;Dina;Acqui;20/03/1911;Ebreo;28/02/1945;Buchenwald
+837;Giorgia;Dina;Venezia;25/05/1933;Ebreo;26/02/1944;Auschwitz
+838;Guido;Dina;Venezia;21/12/1929;Ebreo;Ignoto;Ignoto
+839;Ida;Dina;Venezia;07/10/1897;Ebreo;Ignoto;Ignoto
+840;Leone;Dina;Venezia;19/10/1942;Ebreo;26/02/1944;Auschwitz
+841;Mario;Dina;Venezia;15/03/1894;Ebreo;Ignoto;Ignoto
+843;Amedeo;Di Nepi;Roma;18/06/1875;Ebreo;10/04/1944;Auschwitz
+844;Cesare;Di Nepi;Ronciglione;26/07/1900;Ebreo;20/12/1944;Dachau
+845;Cesare;Di Nepi;Roma;09/07/1910;Ebreo;27/03/1945;Mauthausen
+846;Cesare;Di Nepi;Velletri;11/07/1920;Ebreo;27/04/1945;Mauthausen
+847;Cesare;Di Nepi;Roma;26/11/1921;Ebreo;15/03/1945;Buchenwald
+848;Elvira;Di Nepi;Roma;12/06/1896;Ebreo;23/05/1944;Auschwitz
+849;Eugenio;Di Nepi;Roma;16/01/1904;Ebreo;Ignoto;Ignoto
+850;Giovanni;Di Nepi;Roma;11/08/1899;Ebreo;23/05/1944;Auschwitz
+851;Giuseppe;Di Nepi;Roma;21/02/1889;Ebreo;10/04/1944;Auschwitz
+852;Giuseppe;Di Nepi;Subiaco;11/02/1910;Ebreo;15/12/1944;Auschwitz
+853;Laudadio;Di Nepi;Roma;26/07/1882;Ebreo;23/05/1944;Auschwitz
+854;Leone;Di Nepi;Roma;05/03/1895;Ebreo;31/12/1944;Auschwitz
+855;Mosè;Di Nepi;Roma;06/02/1878;Ebreo;30/06/1944;Auschwitz
+856;Isacco;Di Neris;Roma;06/05/1894;Ebreo;Ignoto;Ignoto
+858;Samuele;Di Neris;Roma;16/05/1887;Ebreo;Ignoto;Ignoto
+859;Settimio;Di Neris;Roma;05/08/1922;Ebreo;10/01/1945;Ignoto
+860;Elda;Di Nola;Pisa;05/05/1901;Ebreo;Ignoto;Ignoto
+861;Adelaide;Di Porto;Roma;28/08/1898;Ebreo;23/05/1944;Auschwitz
+862;Alberto;Di Porto;Roma;30/09/1909;Ebreo;ott-44;Ignoto
+863;Angelo;Di Porto;Roma;28/08/1909;Ebreo;13/01/1945 o 22/01/1945;Auschwitz
+864;Angelo;Di Porto;Roma;28/01/1921;Ebreo;25/04/1945;Mauthausen
+866;Angelo;Di Porto;Roma;20/09/1923;Ebreo;Ignoto;Ignoto
+867;Annita;Di Porto;Roma;12/09/1897;Ebreo;23/05/1944;Auschwitz
+868;Crescenzio;Di Porto;Roma;24/09/1897;Ebreo;Ignoto;Ignoto
+869;Emanuele;Di Porto;Roma;12/01/1901;Ebreo;10/04/1944;Auschwitz
+870;Emma;Di Porto;Roma;25/03/1889;Ebreo;30/06/1944;Auschwitz
+871;Ester;Di Porto;Roma;02/12/1877;Ebreo;10/04/1944;Auschwitz
+872;Fanny;Di Porto;Livorno;01/06/1881;Ebreo;23/05/1944;Auschwitz
+874;Giacomo;Di Porto;Roma;06/03/1920;Ebreo;22/04/1945;Mauthausen
+876;Giuseppe;Di Porto;Roma;02/01/1924;Ebreo;06/01/1945;Ignoto
+877;Giuseppe;Di Porto;Roma;15/12/1928;Ebreo;20/11/1944;Auschwitz
+878;Lazzaro;Di Porto;Roma;08/02/1882;Ebreo;30/06/1944;Auschwitz
+879;Lilia;Di Porto;Livorno;14/08/1914;Ebreo;Ignoto;Ignoto
+880;Mario;Di Porto;Roma;16/04/1926;Ebreo;31/03/1945;Ignoto
+882;Pacifico;Di Porto;Roma;16/04/1918;Ebreo;20/09/1944;Auschwitz
+883;Pacifico;Di Porto;Roma;20/09/1921;Ebreo;23/12/1944;Flossenbuerg
+884;Romolo;Di Porto;Roma;20/06/1925;Ebreo;mar-45;Buchenwald
+885;Rubino;Di Porto;Roma;20/02/1892;Ebreo;10/04/1944;Auschwitz
+886;Sabatino;Di Porto;Roma;12/02/1887;Ebreo;23/05/1944;Auschwitz
+887;Sergio;Di Porto;Roma;20/01/1931;Ebreo;Ignoto;Ignoto
+888;Settimio;Di Porto;Roma;09/03/1898;Ebreo;Ignoto;Ignoto
+889;Settimio;Di Porto;Roma;15/02/1916;Ebreo;Ignoto;Ignoto
+890;Settimio;Di Porto;Roma;25/09/1919;Ebreo;set-44;Ignoto
+891;Vitale;Di Porto;Roma;25/11/1882;Ebreo;30/06/1944;Auschwitz
+892;Vitale;Di Porto;Roma;22/10/1905;Ebreo;23/05/1944;Auschwitz
+893;Wilma;Di Porto;Roma;21/04/1933;Ebreo;23/05/1944;Auschwitz
+895;Alberto;Di Segni;Viterbo;28/05/1913;Ebreo;18/01/1945;Sachsenhausen
+896;Alberto Elia;Di Segni;Roma;08/05/1921;Ebreo;03/03/1945;Mauthausen
+897;Angelo;Di Segni;Roma;25/01/1906;Ebreo;27/10/1944;Auschwitz
+898;Angelo;Di Segni;Roma;08/11/1909;Ebreo;30/03/1945;Mauthausen
+901;David;Di Segni;Roma;21/04/1910;Ebreo;31/01/1945;Auschwitz
+902;Diodato;Di Segni;Roma;15/01/1895;Ebreo;Ignoto;Ignoto
+903;Emanuele;Di Segni;Roma;18/12/1903;Ebreo;21/02/1945;Buchenwald
+905;Giovanni;Di Segni;Roma;14/07/1888;Ebreo;dic-43;Gross Rosen
+907;Lello Samuele;Di Segni;Roma;05/08/1908;Ebreo;02/02/1945;Dachau
+908;Leo;Di Segni;Roma;01/09/1877;Ebreo;30/06/1944;Auschwitz
+909;Marco;Di Segni;Roma;09/04/1914;Ebreo;mar-45;Flossembuerg
+910;Margherita;Di Segni;Roma;10/11/1884;Ebreo;ott-44;Dachau
+911;Pace;Di Segni;Roma;16/03/1918;Ebreo;04/03/1945;Mauthausen
+912;Pacifico;Di Segni;Roma;13/01/1928;Ebreo;10/04/1944;Auschwitz
+914;Prospero Adolfo;Di Segni;Roma;13/08/1900;Ebreo;ago-44;Ignoto
+915;Renato;Di Segni;Roma;19/07/1922;Ebreo;feb-45;Ignoto
+916;Roberto;Di Segni;Roma;01/12/1886;Ebreo;06/08/1944;Auschwitz
+920;Gemma;Di Tivoli;Roma;09/08/1898;Ebreo;23/05/1944;Auschwitz
+921;Giuseppe;Di Tivoli;Roma;07/10/1919;Ebreo;20/09/1944;Auschwitz
+922;Leonardo;Di Tivoli;Roma;19/11/1894;Ebreo;31/08/1944;Auschwitz
+923;Settimio;Di Tivoli;Roma;24/03/1913;Ebreo;Ignoto;Ignoto
+924;Vittorio;Di Tivoli;Roma;27/11/1891;Ebreo;Ignoto;Ignoto
+925;Angelo;Di Veroli;Roma;19/04/1900;Ebreo;25/12/1944;Auschwitz
+927;Bruno;Di Veroli;Roma;09/07/1927;Ebreo;ott-45;Ignoto
+928;David;Di Veroli;Roma;21/12/1917;Ebreo;ott-44;Ignoto
+930;Donato;Di Veroli;Roma;07/02/1914;Ebreo;12/01/1945;Natzweiler
+932;Emma;Di Veroli;Roma;19/04/1902;Ebreo;Ignoto;Ignoto
+933;Enrico David;Di Veroli;Roma;29/11/1883;Ebreo;30/06/1944;Auschwitz
+934;Ernesta;Di Veroli;Livorno;14/02/1862;Ebreo;23/05/1944;Auschwitz
+935;Fernando;Di Veroli;Roma;30/06/1922;Ebreo;03/11/1944;Auschwitz
+936;Giacomo;Di Veroli;Roma;29/10/1878;Ebreo;23/05/1944;Auschwitz
+937;Giacomo;Di Veroli;Roma;25/12/1885;Ebreo;10/04/1944;Auschwitz
+938;Giacomo;Di Veroli;Roma;09/03/1906;Ebreo;set-44;Ignoto
+939;Giovanni;Di Veroli;Roma;08/04/1882;Ebreo;23/05/1944;Auschwitz
+942;Lalla (Anna);Di Veroli;Roma;29/05/1903;Ebreo;31/10/1944;Luogo ignoto
+945;Marco;Di Veroli;Roma;05/03/1899;Ebreo;20/02/1945;Buchenwald
+946;Michele;Di Veroli;Roma;13/05/1895;Ebreo;Ignoto;Ignoto
+947;Michele;Di Veroli;Roma;16/08/1919;Ebreo;gen-45;Ignoto
+948;Mosè;Di Veroli;Velletri;17/02/1875;Ebreo;10/04/1944;Auschwitz
+949;Pacifico;Di Veroli;Gorla Precotto;07/04/1919;Ebreo;Ignoto;Ignoto
+950;Renato;Di Veroli;Roma;01/01/1908;Ebreo;31/10/1944;Luogo ignoto
+951;Samuele;Di Veroli;Velletri;02/01/1915;Ebreo;27/02/1945;Natzweiler
+953;Tranquillo;Di Veroli;Roma;25/08/1902;Ebreo;Ignoto;Ignoto
+955;Umberto;Di Veroli;Roma;11/10/1889;Ebreo;Ignoto;Ignoto
+956;Valeria;Di Veroli;Roma;02/08/1926;Ebreo;set-44;Ignoto
+958;Alfredo Aladar;Doczi;Fiume;30/05/1893;Ebreo;Ignoto;Ignoto
+960;Fania;Dorfmann;Korosten (URSS);14/08/1899;Ebreo;Ignoto;Ignoto
+961;Siegfried;Driller;Vienna (Austria);16/09/1896;Ebreo;Ignoto;Ignoto
+962;Gina;Dubinski;Austria;17/04/1918;Ebreo;Ignoto;Ignoto
+963;Eva;Ducci;Abbazia;26/12/1922;Ebreo;lug-44;Auschwitz
+964;Rodolfo;Ducci;Budapest (Ungheria);09/03/1887;Ebreo;10/04/1944;Auschwitz
+966;Vittorio;Duegnas;Smirne (Turchia);12/09/1910;Ebreo;Ignoto;Ignoto
+967;Fiammetta;Duri Moscato;Firenze;28/12/1884;Ebreo;Ignoto;Ignoto
+968;Desiderio;Dym;Debrecen (Ungheria);22/01/1892;Ebreo;Ignoto;Ignoto
+969;Alberto;Efrati;Roma;06/11/1901;Ebreo;08/01/1945;Natzweiler
+970;Aronne;Efrati;Roma;12/06/1875;Ebreo;30/06/1944;Auschwitz
+971;Augusto;Efrati;Castelgandolfo;24/08/1916;Ebreo;19/03/1945;Gross Rosen
+972;Costanza;Efrati;Roma;12/04/1900;Ebreo;mar-45;Bergen Belsen
+973;Elia;Efrati;Roma;06/12/1913;Ebreo;dic-44;Auschwitz
+974;Graziano;Efrati;Roma;29/11/1897;Ebreo;25/04/1944;Gross Rosen
+975;Lazzaro;Efrati;Roma;08/04/1920;Ebreo;25/04/1945;Mauthausen
+976;Leone;Efrati;Roma;06/02/1881;Ebreo;30/06/1944;Auschwitz
+977;Leone;Efrati;Roma;23/04/1915;Ebreo;17/04/1945;Mauthausen
+978;Leone;Efrati;Roma;29/05/1924;Ebreo;Ignoto;Ignoto
+979;Marco;Efrati;Roma;27/09/1913;Ebreo;15/04/1945;Mauthausen
+980;Marco;Efrati;Roma;10/12/1919;Ebreo;gen-45;Ignoto
+981;Rosa;Egert;Drohobycz (Polonia);15/08/1890;Ebreo;Ignoto;Ignoto
+982;Antonia;Ehrenwert;Vienna (Austria);17/08/1907;Ebreo;Ignoto;Ignoto
+983;Friederike Sarah;Eibuschitz;Vienna (Austria);22/03/1899;Ebreo;Ignoto;Ignoto
+985;Isacco;Einhorn;Ronadono (Romania);20/09/1889;Ebreo;23/05/1944;Auschwitz
+987;Hans;Eiseck;Berlino (Germania);22/01/1900;Ebreo;ago-44;Ignoto
+988;Greta;Eisenstaedter;Zagabria (Jugoslavia);24/10/1909;Ebreo;Ignoto;Ignoto
+989;Guglielmo;Eisenstaedter;Slivnica (Jugoslavia);27/12/1875;Ebreo;26/02/1944;Auschwitz
+990;Massimo;Eisinger;Poisdorf (Austria);23/02/1879;Ebreo;06/08/1944;Auschwitz
+991;Mazaltov;Elias;Smirne (Turchia);1871;Ebreo;23/05/1944;Auschwitz
+992;Isacco;Enriquez;Smirne (Turchia);09/05/1908;Ebreo;apr-44;Ignoto
+994;Margarethe;Erlbaum;Vienna (Austria);12/03/1904;Ebreo;Ignoto;Ignoto
+995;Gino Emanuele;Errera;Salonicco (Grecia);05/10/1893;Ebreo;Ignoto;Ignoto
+996;Paolo;Errera;Venezia;18/10/1861;Ebreo;10/04/1944;Auschwitz
+997;Giuseppe;Esdra;Roma;07/08/1921;Ebreo;18/02/1944;Gross Rosen
+998;Leo;Esdra;Roma;01/05/1912;Ebreo;11/03/1944;Gross Rosen
+999;Giuseppe;Eskenazi;Odessa (URSS);25/01/1905;Ebreo;gen-45;Ignoto
+1000;Ester;Esquenazi;Istanbul (Turchia);31/12/1874;Ebreo;10/04/1944;Auschwitz
+1001;Leone;Esquenazi;Istanbul (Turchia);27/10/1883;Ebreo;23/05/1944;Auschwitz
+1002;Rebecca;Esquenazi;Istanbul (Turchia);25/19/1880;Ebreo;10/04/1944;Auschwitz
+1003;Salomone;Esquenazi;Istanbul (Turchia);14/02/1879;Ebreo;10/04/1944;Auschwitz
+1005;Wilma;Falkenflich;(fuori d'Italia);11/12/1889;Ebreo;Ignoto;Ignoto
+1006;Alba Fausta;Fano;Soragna;23/12/1905;Ebreo;Ignoto;Ignoto
+1007;Alessandro;Fano;Soragna;08/05/1870;Ebreo;23/05/1944;Auschwitz
+1008;Clementina;Fano;Venezia;13/10/1890;Ebreo;mar-45;Ignoto
+1009;Elena;Fano;Venezia;18/08/1868;Ebreo;06/08/1944;Auschwitz
+1011;Ermanno;Fano;Soragna;26/03/1903;Ebreo;Ignoto;Ignoto
+1012;Giuseppe;Fano;Venezia;20/10/1870;Ebreo;06/08/1944;Auschwitz
+1013;Giulio;Fano;Venezia;12/08/1874;Ebreo;06/08/1944;Auschwitz
+1014;Liliana;Fano;Pellegrino Parmense;25/02/1934;Ebreo;10/04/1944;Auschwitz
+1015;Luciano;Fano;Pellegrino Parmense;16/02/1932;Ebreo;10/04/1944;Auschwitz
+1016;Marco;Fano;Soragna;26/12/1910;Ebreo;gen-45;Gross Rosen
+1017;Renato;Fano;Soragna;17/10/1887;Ebreo;06/08/1944;Auschwitz
+1018;Roberto;Fano;Parma;27/09/1942;Ebreo;10/04/1944;Auschwitz
+1019;Vittoria;Fano;Brescia;24/07/1914;Ebreo;Ignoto;Ignoto
+1020;Bruno;Farber;Ferrara;07/11/1943;Ebreo;26/02/1944;Auschwitz
+1021;Davide;Farber;Gorizia (Austria);02/12/1906;Ebreo;mag-44;Ignoto
+1022;Elisa;Fargion;Cagliari;07/05/1891;Ebreo;26/02/1944;Auschwitz
+1024;Angelo;Fatucci;Roma;25/06/1895;Ebreo;10/04/1944;Auschwitz
+1025;Rachele;Fedrigoni;Nancy (Francia);20/01/1888;Ebreo;Ignoto;Ignoto
+1027;Jacob;Feldhammer;Cernauti (Romania);16/05/1882;Ebreo;23/05/1944;Auschwitz
+1028;Hanna;Feldhorn;Tarnopol (Polonia);10/09/1880;Ebreo;23/05/1944;Auschwitz
+1029;Berta;Feldmann;(Polonia);10/11/1889;Ebreo;mar-45;Ignoto

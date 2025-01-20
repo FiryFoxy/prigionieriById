@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Dynamic Pages</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .entry {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+        .entry h2 {
+            margin-top: 0;
+        }
+        .links {
+            margin-top: 20px;
+        }
+        .links a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Data from CSV</h1>
+    <div id="content"></div>
+
+    <script>
+        const csvFilePath = './output.csv';
+
+        const parseCSV = async (filePath) => {
+            try {
+                const response = await fetch(filePath);
+                const data = await response.text();
+                const rows = data.trim().split('\n');
+                const headers = rows[0].split(';');
+                return rows.slice(1).map(row => {
+                    const values = row.split(';');
+                    return headers.reduce((acc, header, i) => {
+                        acc[header] = values[i];
+                        return acc;
+                    }, {});
+                });
+            } catch (error) {
+                console.error('Error fetching CSV:', error);
+                return [];
+            }
+        };
+
+        const renderEntry = (entry) => {
+            document.body.innerHTML = `
+                <h1>${entry.NOME} ${entry.COGNOME}</h1>
+                <p><strong>Nato a:</strong> ${entry['NATO A']}</p>
+                <p><strong>Nato il:</strong> ${entry['NATO IL']}</p>
+                <p><strong>Qualifica:</strong> ${entry.QUALIFICA}</p>
+                <p><strong>Data Arrivo:</strong> ${entry['DATA ARRIVO']}</p>
+                <p><strong>Data Morte:</strong> ${entry['DATA MORTE']}</p>
+                <p><strong>Luogo di Morte:</strong> ${entry['LUOGO DI MORTE']}</p>
+                <a href="/">Back to Index</a>
+            `;
+        };
+
+        const renderIndex = (entries) => {
+            const content = document.getElementById('content');
+            const linksDiv = document.createElement('div');
+            linksDiv.classList.add('links');
+
+            entries.forEach(entry => {
+                const link = document.createElement('a');
+                link.href = `/${entry['#']}`;
+                link.textContent = `${entry.NOME} ${entry.COGNOME}`;
+                linksDiv.appendChild(link);
+
+                link.addEventListener('click', (event) => {
+                    event.preventDefault();
+                    const id = entry['#'];
+                    history.pushState({ id }, '', `/${id}`);
+                    renderEntry(entry);
+                });
+            });
+
+            content.appendChild(linksDiv);
+        };
+
+        const handleRouting = (entries) => {
+            const id = location.pathname.slice(1);
+            if (id) {
+                const entry = entries.find(e => e['#'] === id);
+                if (entry) {
+                    renderEntry(entry);
+                } else {
+                    document.body.innerHTML = '<h1>404 - Page Not Found</h1>';
+                }
+            } else {
+                renderIndex(entries);
+            }
+        };
+
+        window.addEventListener('popstate', () => {
+            parseCSV(csvFilePath).then(entries => handleRouting(entries));
+        });
+
+        parseCSV(csvFilePath).then(entries => handleRouting(entries));
+    </script>
+</body>
+</html>
