@@ -33,7 +33,7 @@
 
     <script>
         const csvFilePath = './output.csv';
-
+    
         const parseCSV = async (filePath) => {
             try {
                 const response = await fetch(filePath);
@@ -52,7 +52,7 @@
                 return [];
             }
         };
-
+    
         const renderEntry = (entry) => {
             document.body.innerHTML = `
                 <h1>${entry.NOME} ${entry.COGNOME}</h1>
@@ -62,36 +62,36 @@
                 <p><strong>Data Arrivo:</strong> ${entry['DATA ARRIVO']}</p>
                 <p><strong>Data Morte:</strong> ${entry['DATA MORTE']}</p>
                 <p><strong>Luogo di Morte:</strong> ${entry['LUOGO DI MORTE']}</p>
-                <a href="/">Back to Index</a>
+                <a href="#/">Back to Index</a>
             `;
         };
-
+    
         const renderIndex = (entries) => {
             const content = document.getElementById('content');
             const linksDiv = document.createElement('div');
             linksDiv.classList.add('links');
-
+    
             entries.forEach(entry => {
                 const link = document.createElement('a');
-                link.href = `/${entry['#']}`;
+                link.href = `#${entry['#']}`;
                 link.textContent = `${entry.NOME} ${entry.COGNOME}`;
                 linksDiv.appendChild(link);
-
+    
                 link.addEventListener('click', (event) => {
                     event.preventDefault();
-                    const id = entry['#'];
-                    history.pushState({ id }, '', `/${id}`);
+                    const hash = entry['#'];
+                    history.pushState({ hash }, '', `#${hash}`);
                     renderEntry(entry);
                 });
             });
-
+    
             content.appendChild(linksDiv);
         };
-
+    
         const handleRouting = (entries) => {
-            const id = location.pathname.slice(1);
-            if (id) {
-                const entry = entries.find(e => e['#'] === id);
+            const hash = window.location.hash.slice(1); // Get the part after the '#'
+            if (hash) {
+                const entry = entries.find(e => e['#'] === hash);
                 if (entry) {
                     renderEntry(entry);
                 } else {
@@ -101,12 +101,13 @@
                 renderIndex(entries);
             }
         };
-
-        window.addEventListener('popstate', () => {
+    
+        window.addEventListener('hashchange', () => {
             parseCSV(csvFilePath).then(entries => handleRouting(entries));
         });
-
+    
         parseCSV(csvFilePath).then(entries => handleRouting(entries));
     </script>
+    
 </body>
 </html>
